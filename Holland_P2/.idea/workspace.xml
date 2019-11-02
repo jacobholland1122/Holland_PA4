@@ -2,10 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ed2c20e1-921f-4fa1-8b18-26bf740c1886" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/../Holland_P1/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Holland_P1/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Holland_P1/src/DuplicateRemover.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Holland_P1/src/DuplicateRemover.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/DuplicateCounter.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/DuplicateCounter.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Application.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Application.java" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -60,7 +57,9 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
           </value>
         </entry>
       </map>
