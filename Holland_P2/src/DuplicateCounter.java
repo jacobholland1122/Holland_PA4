@@ -36,8 +36,8 @@ public class DuplicateCounter {
                 }
             }
 
-            scanner.close();
             fileInputStream.close();
+            scanner.close();
 
         }
 
@@ -64,8 +64,9 @@ public class DuplicateCounter {
 
             }
 
-            printWriter.flush();
             fileOutputStream.close();
+            printWriter.flush();
+
         }
 
         catch(IOException exception) {

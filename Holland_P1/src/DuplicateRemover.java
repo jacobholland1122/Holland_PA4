@@ -20,16 +20,18 @@ public class DuplicateRemover {
             scanner = new Scanner(fileInputStream);
 
             while(scanner.hasNext()) {
+
                 uniqueWords.add(scanner.next());
 
             }
 
-            fileInputStream.close();
             scanner.close();
+            fileInputStream.close();
 
         }
 
         catch (IOException exception){
+
             exception.printStackTrace();
 
         }
